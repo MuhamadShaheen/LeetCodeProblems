@@ -1,0 +1,7 @@
+C:\Users\muham\source\repos\LeetCodeBLIND75_Problems\bin\Debug\LeetCodeBLIND75_Problems.exe.config
+C:\Users\muham\source\repos\LeetCodeBLIND75_Problems\bin\Debug\LeetCodeBLIND75_Problems.exe
+C:\Users\muham\source\repos\LeetCodeBLIND75_Problems\bin\Debug\LeetCodeBLIND75_Problems.pdb
+C:\Users\muham\source\repos\LeetCodeBLIND75_Problems\obj\Debug\LeetCodeBLIND75_Problems.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\LeetCodeBLIND75_Problems\obj\Debug\LeetCodeBLIND75_Problems.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\LeetCodeBLIND75_Problems\obj\Debug\LeetCodeBLIND75_Problems.exe
+C:\Users\muham\source\repos\LeetCodeBLIND75_Problems\obj\Debug\LeetCodeBLIND75_Problems.pdb
